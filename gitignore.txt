@@ -1,0 +1,7 @@
+//
+//  .gitignore.txt
+//  03-iOS-Abschluss
+//
+//  Created by Isabell Philippi on 12.03.25.
+//
+
